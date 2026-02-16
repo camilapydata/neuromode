@@ -1,0 +1,11 @@
+{
+  "name": "neuromode",
+  "version": "1.0.0",
+  "description": "NeuroMode - Cognitive regulation engine for progressive task execution",
+  "main": "neuromode.js",
+  "scripts": {
+    "start": "node neuromode.js"
+  },
+  "author": "Camila",
+  "license": "MIT"
+}
